@@ -13,3 +13,9 @@ and the display format of items such as numbers, currency, and dates.
 
 Get-UICulture : current user interface settings for windows. The UI culture settings determine which text strings appear in user interface elements such as menus and error messages.
 
+Get-Date : get the system date and time
+
+Get-Random : random number generator. but can do with "(New-Object system.random).next()" this as well
+
+
+
