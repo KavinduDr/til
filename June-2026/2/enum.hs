@@ -1,0 +1,3 @@
+main = print (succ 12) 
+
+-- Enum is another type of Type class which enables the sequential or ordered functionality in Haskell. This Type class can be accessed by commands such as Succ, Pred, Bool, Char, etc. In the following code, we have used the "succ" command to get the successor of the number 12. The result will be 13. We can also use "pred" command to get the predecessor of a number. For example, "pred 12" will return 11.
